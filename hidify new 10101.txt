@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"جهت استفاده از سرور های پرسرعت همین الن وارد کانال تلگرام ما شوید و دریافت کنید 🌟❤️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
