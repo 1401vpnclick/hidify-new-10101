@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"سرور ها بروز هدیفای رو همین الن از کانال تلگرام ما دریافت کن با سرعت بالا ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"دریافت سرور ","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
